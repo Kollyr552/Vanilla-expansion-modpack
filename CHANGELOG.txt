@@ -1,0 +1,20 @@
+----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- -----
+
+- Removed "Effective"
+
+- Removed "Woodworks"
+
++ Added "Yung's better mineshafts" (Forgot to add it at first)
++ Added sleeping bags
++ Added map atlases
+
++ Added "Aquaculture 2" 
++ Added "XP Tome"
++ Added "CraftTweaker"
++ Added "Configured"
++ Added layered snowfall
+
++ Added "Sound physics" (Accidentally installed the fabric version)
++ Added "FerriteCore" (Further optimization)
+
+----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- -----
